@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewData["Title"] = "Hai Admin";
+    Layout = "~/Layout/_Layout.cshtml";
+}
+
+
+<h1 class="h3 mb-2 text-gray-800">@ViewBag.Title</h1>
+
+<div class="row">
+
+    <!-- Donut Chart -->
+    <div class="col-lg-6">
+        <div class="card ">
+            <!-- Card Header - Dropdown -->
+            <div class="card-header ">
+                <h6 class="m-0 font-weight-bold text-primary">Donut Chart</h6>
+            </div>
+            <!-- Card Body -->
+            <div class="card-body">
+                <div class="col-md-12">
+                    <div class="amChart" id="pieChart"></div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Donut Chart -->
+    <div class="col-lg-6">
+        <div class="card ">
+            <!-- Card Header - Dropdown -->
+            <div class="card-header ">
+                <h6 class="m-0 font-weight-bold text-primary">Bar Chart</h6>
+            </div>
+            <!-- Card Body -->
+            <div class="card-body">
+                <div class="col-md-12">
+                    <div class="amChart" id="barChart"></div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+@section Scripts{
+    <script src="~/content/assets/vendor/bootstrap/js/Chart.js"></script>
+}

@@ -1,0 +1,28 @@
+C:\Users\Cornelia Putri\Documents\Visual Studio 2017\Projects\WebCore\WebCore\bin\Debug\netcoreapp2.1\WebCore.deps.json
+C:\Users\Cornelia Putri\Documents\Visual Studio 2017\Projects\WebCore\WebCore\bin\Debug\netcoreapp2.1\WebCore.runtimeconfig.json
+C:\Users\Cornelia Putri\Documents\Visual Studio 2017\Projects\WebCore\WebCore\bin\Debug\netcoreapp2.1\WebCore.runtimeconfig.dev.json
+C:\Users\Cornelia Putri\Documents\Visual Studio 2017\Projects\WebCore\WebCore\bin\Debug\netcoreapp2.1\WebCore.dll
+C:\Users\Cornelia Putri\Documents\Visual Studio 2017\Projects\WebCore\WebCore\bin\Debug\netcoreapp2.1\WebCore.pdb
+C:\Users\Cornelia Putri\Documents\Visual Studio 2017\Projects\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.csprojAssemblyReference.cache
+C:\Users\Cornelia Putri\Documents\Visual Studio 2017\Projects\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.csproj.CoreCompileInputs.cache
+C:\Users\Cornelia Putri\Documents\Visual Studio 2017\Projects\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.RazorAssemblyInfo.cache
+C:\Users\Cornelia Putri\Documents\Visual Studio 2017\Projects\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.RazorAssemblyInfo.cs
+C:\Users\Cornelia Putri\Documents\Visual Studio 2017\Projects\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.AssemblyInfoInputs.cache
+C:\Users\Cornelia Putri\Documents\Visual Studio 2017\Projects\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.AssemblyInfo.cs
+C:\Users\Cornelia Putri\Documents\Visual Studio 2017\Projects\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.RazorTargetAssemblyInfo.cache
+C:\Users\Cornelia Putri\Documents\Visual Studio 2017\Projects\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.dll
+C:\Users\Cornelia Putri\Documents\Visual Studio 2017\Projects\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.pdb
+D:\Cadangan Program\WebCore\WebCore\bin\Debug\netcoreapp2.1\WebCore.deps.json
+D:\Cadangan Program\WebCore\WebCore\bin\Debug\netcoreapp2.1\WebCore.runtimeconfig.json
+D:\Cadangan Program\WebCore\WebCore\bin\Debug\netcoreapp2.1\WebCore.runtimeconfig.dev.json
+D:\Cadangan Program\WebCore\WebCore\bin\Debug\netcoreapp2.1\WebCore.dll
+D:\Cadangan Program\WebCore\WebCore\bin\Debug\netcoreapp2.1\WebCore.pdb
+D:\Cadangan Program\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.csprojAssemblyReference.cache
+D:\Cadangan Program\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.csproj.CoreCompileInputs.cache
+D:\Cadangan Program\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.RazorAssemblyInfo.cache
+D:\Cadangan Program\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.RazorAssemblyInfo.cs
+D:\Cadangan Program\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.AssemblyInfoInputs.cache
+D:\Cadangan Program\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.AssemblyInfo.cs
+D:\Cadangan Program\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.RazorTargetAssemblyInfo.cache
+D:\Cadangan Program\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.dll
+D:\Cadangan Program\WebCore\WebCore\obj\Debug\netcoreapp2.1\WebCore.pdb
